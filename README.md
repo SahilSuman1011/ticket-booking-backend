@@ -183,10 +183,6 @@ The application provides an interactive command-line interface with the followin
 
 This project is created for educational purposes.
 
-## 👤 Author
-
-Your Name - [GitHub Profile](https://github.com/yourusername)
-
 ---
 
 **Built with ❤️ using Core Java, Stream API, and Jackson**
